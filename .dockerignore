@@ -1,0 +1,6 @@
+**
+!/bin/qvm-pass
+!/etc/qubes-rpc/**
+!/Makefile
+!/qubes-pass.spec
+!/README.md
