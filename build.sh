@@ -6,7 +6,7 @@ cd  "$dir"
 
 # image & versions
 image="qubes-pass"
-version="0.0.21"
+version="0.0.22"
 release="1"
 version1="$version-$release"
 
